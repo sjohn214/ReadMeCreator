@@ -4,34 +4,35 @@ function generateMarkdown(data) {
 
 
 ## Table of contents:
+
 * Project Description
 * Summary
 * License
 * Demo Content
 * Special Features
-    *Install
-    *Usage
-    *License
-    *Tests
-    *Contributions
-    *Questions
-*Author(s)
+* Install
+* Usage
+* License
+* Tests
+* Contributions
+* Questions
+* Author(s)
 
 
-# Project Description
+## Project Description
 
 * What is your project's description? **${data.description}**
 
-# Summary
+## Summary
 
 * This project applies Javascript, Nodes.js applications. With the use of Javascript and Node.js, the user has the ability submit information to supplement the creative document dynamically.
 
-# License
+## License
 
 * What kind of license should your project have? ${data.license}
 ![License Screenshot](./licensephoto.png)
 
-# Demo Content
+## Demo Content
 
 ![README Screenshot](./readmephoto.png)
 
@@ -40,7 +41,7 @@ function generateMarkdown(data) {
 <a href="https://github.com/sjohn214/ReadMeCreator.git">README Creator GitHub Repo</a>
 
 
-# Special Features
+## Special Features
 
 ## Installation
 
@@ -51,7 +52,7 @@ function generateMarkdown(data) {
 * How do you use this application? ${data.usage}
 * What does the user need to know about using the repo? ${data.information}
 
-# Tests
+## Tests
 
 * What command should be run to test the application? ${data.test}
 
@@ -66,7 +67,7 @@ function generateMarkdown(data) {
 * What is your email address? ${data.email}
 * Please provide the best contact method. ${data.questions}
  
-# Authors
+## Authors
 * Shannondale Page (student) <a href="https://github.com/sjohn214">Git Hub Profile</a>
 * Austin Bruch (Bootcamp Instructor)
 * Jon Jackson (Bootcamp TA Instructor)
