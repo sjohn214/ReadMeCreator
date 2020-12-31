@@ -38,15 +38,21 @@ const questions = [
 {   type: "input",
     name: "install",
     message: "What command should be used to install dependencies?",
-    default: "npm i"
+    default: "User must install npm i, node.js"
 
 },
 
 {   type: "input",
     name: "test",
     message: "What command should be run to test the application?",
-    default: "npm test"
+    default: "User must run nmp test"
 
+},
+
+{   type: "input",
+    name: "usage",
+    message: "How do you use this application?",
+    default: "User must run npm i, node index.js on command line in terminal"
 },
 
 {   type: "input",
@@ -62,7 +68,7 @@ const questions = [
 {
     type: "input",
     name: "questions",
-    message: "Do you have questions? Please provide the best contact method."
+    message: "Do you have questions or would you like to comment? Please provide best contact information."
 }
 ];
 
