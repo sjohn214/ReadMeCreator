@@ -18,7 +18,7 @@
 
 # Project Description
 
-* What is your project's description? **To generate a dynamic README file using node.js.**
+* What is your project's description? **  To generate a dynamic README file using node.js.**
 
 # Summary
 
@@ -31,11 +31,11 @@
 
 # Demo Content
 
-![License Screenshot](./licensephoto.png)
+![README Screenshot](./readmephoto.png)
 
-![License Screenshot](./licensephoto.png)
+![Creative README gif]()
 
-<a href="https://github.com/sjohn214/ForecastDashboard.git">Forecast Dashboard GitHub Repo</a>
+<a href="https://github.com/sjohn214/ReadMeCreator.git">README Creator GitHub Repo</a>
 
 
 # Special Features
@@ -47,7 +47,7 @@
 ## Usage
 
 * How do you use this application? User must run npm i, node index.js on command line in terminal
-* What does the user need to know about using the repo? This repo was created dynamically using javascript and node.js by calling the inquirer, init, and writetoFile functions.
+* What does the user need to know about using the repo?   This repo was created dynamically using javascript and node.js by calling the inquirer, init, and writetoFile functions.
 
 # Tests
 
@@ -55,7 +55,7 @@
 
 ## Contributions
 
-* What does the user need to know about contributing to the repo? Submit a pull request to view possible changes to repo.
+* What does the user need to know about contributing to the repo?   Submit a pull request to view possible changes to repo.
 
 ## Questions
 
