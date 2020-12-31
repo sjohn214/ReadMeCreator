@@ -62,7 +62,7 @@
 * Do you have questions or would you like to comment? 
 * What is your github username? **shanban07**
 * What is your email address? s5328j@gmail.com
-* Please provide the best contact method. 980-636-9291
+* Please provide the best contact method.   980-636-9291
  
 # Authors
 * Shannondale Page (student) <a href="https://github.com/sjohn214">Git Hub Profile</a>
