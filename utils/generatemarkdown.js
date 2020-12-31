@@ -35,7 +35,7 @@ function generateMarkdown(data) {
 
 ![README Screenshot](./readmephoto.png)
 
-![Creative README gif](./creative.gif)
+![Creative README gif](creative.gif)
 
 <a href="https://github.com/sjohn214/ReadMeCreator.git">README Creator GitHub Repo</a>
 
